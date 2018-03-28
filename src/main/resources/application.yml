@@ -9,8 +9,8 @@ logging:
 spring:
  datasource:       # mybatis 配置，使用druid数据源
    url: jdbc:mysql://140.143.238.188:3306/mybase?useUnicode=true&characterEncoding=UTF-8
-   username: caiminjie
-   password: MyLover0715!
+   username: xxx
+   password: xxx
    type: com.alibaba.druid.pool.DruidDataSource
    driver-class-name: com.mysql.jdbc.Driver
    filters: stat
